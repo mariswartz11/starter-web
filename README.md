@@ -6,3 +6,6 @@ I'm making some changes here.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+###Copyright
+2014 copyright
