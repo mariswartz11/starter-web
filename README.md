@@ -5,7 +5,7 @@ I'm making some changes here. Adding more text here for rebasing, then more chan
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos, updating: Emergency fix
 
 Please fork this repository and then issue pull request for review
 
