@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 Please fork this repository and then issue pull request for review
 
 ###Copyright
-2014 copyright
+2014 Improving Copyright
